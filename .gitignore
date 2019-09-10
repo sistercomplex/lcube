@@ -1,0 +1,15 @@
+/target/
+core/target
+sql/core/target/
+sql/catalyst/target/
+sql/hive/target/
+sql/hive-thriftserver/target/
+sql/lcube/target/
+
+graphx/target/
+mllib/target/
+mllib-local/target/
+
+build/scala-2.11.12
+build/zinc-0.3.15
+
